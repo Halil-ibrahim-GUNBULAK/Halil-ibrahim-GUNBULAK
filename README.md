@@ -9,9 +9,12 @@ I'm a Software Engineer, passionate about software development and web products.
 - 📫 How to reach me: hibrahim.gunbulak@gmail.com
 
 ## GitHub Stats
+![How many Code Write that year](https://github.com/Halil-ibrahim-GUNBULAK/Halil-ibrahim-GUNBULAK/blob/main/Ekran%20Resmi%202024-07-28%2000.17.34.png)
+
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Halil-ibrahim-GUNBULAK&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Halil-ibrahim-GUNBULAK&layout=compact&theme=radical)
+
 
 
 
