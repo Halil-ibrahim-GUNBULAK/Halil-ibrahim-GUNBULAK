@@ -4,7 +4,7 @@
 ## About Me
 I'm a Software Engineer, passionate about software development and web products. I enjoy working on projects that involve  building web applications, developing mobile apps, and AI apps.
 
-- 🌱 I’m currently learning Kubernates  and Spring boot AI Projects
+- 🌱 I’m currently learning Nest Js  and Spring boot AI Projects
 - 💬 Ask me about Flutter Apps And Spring Web Apps.
 - 📫 How to reach me: hibrahim.gunbulak@gmail.com
 
